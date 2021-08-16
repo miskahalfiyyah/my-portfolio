@@ -1,19 +1,19 @@
 /* eslint-disable vue/valid-template-root */
 <template>
 
-<div class="monochrome">
+<div class="myn">
     <Navbar />
         <section>
         <div class="container">
             <div class="text text-white">
-                <h2>Monochrome, Website E-Commerce</h2>
+                <h2>MYNInterior, Web Interior Design Service Provider</h2>
 
                 <figure class="figure text-left">
-                    <a target="_blank" href="https://monochrome-store.netlify.app" style="font-size: 14px;"><i class="fas fa-link ml-2 mt-5"></i> Visit Website</a>
-                    <img src="assets/img/mono.png" class="figure-img img-fluid mt-5" data-aos="flip-left"
+                    <a target="_blank" href="" style="font-size: 14px;"><i class="fas fa-link ml-2 mt-5"></i> Visit Website</a>
+                    <img src="assets/MYNInterior.png" class="figure-img img-fluid mt-5" data-aos="flip-left"
                         data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                     <figcaption class="figure-caption mt-3 text-center font-italic text-white">
-                        Monochrome Project Web Design
+                        Web Interior Design Service Provider
                     </figcaption>
                 </figure>
             </div>
@@ -26,12 +26,11 @@
             <div class="row" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
                 <div class="text col-lg-6 col-md-6 col-12">
                     <h6 class="text-title">PROBLEM STATEMENT</h6>
-                    <p class="text-desc">From the result customer persona, the customers online shopping experience
-                        wants the confidentiality of the items
-                        purchased so that goods such as intimate things can be protected in secret. <br><br> And there
-                        can be
-                        customers who want to know
-                        designer who have made products.
+                    <p class="text-desc">
+                        Image result for important services design interior.
+                        Interior designers are experts in creating more spaces, improving the space efficiency,
+                        improving the functional usage of space, improving the lighting effect, improving the color
+                        effects, improving the textures, patterns, scale, size.
                     </p>
                 </div>
             </div>
@@ -95,27 +94,21 @@
                 <div class="text col-lg-6 col-md-6 col-12">
                     <h6 class="text-title">SCOPE AND CONSTRAINTS</h6>
                     <p class="text-desc">Assets that I use from several platforms including for the image I took
-                        from <a href="https://www.zara.com/">ZARA</a>. For icons I took from <a
-                            href="https://www.flaticon.com/">flaticons</a>, <a
-                            href="https://fontawesome.com/">fontawesome</a> and some I made myself.
-                        <br><br> I design the web design for shopping online (e-commerce) and develop it. Then I
-                        also design all
-                        the inner pages such as
-                        home page, category page, designer page, product page, detail product page, success page
-                        (modal), about page redirect to the company profile, and footer.
+                        from <a href="https://unsplash.com/">Unsplash</a>.
+                        <br><br> I design the web design for Web Interior Design Service Provider and my partner develop it.
                     </p>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <figure class="figure mt-5">
-                        <img data-aos="fade-up" data-aos-duration="3000" src="assets/img/homepage.png" class="figure-img img-fluid mt-5">
+                        <img data-aos="fade-up" data-aos-duration="3000" src="assets/homepage.png" class="figure-img img-fluid mt-5">
                     </figure>
                 </div>
                 <div class="row">
                     <div class="col">
                         <figure class="figure mt-5">
-                            <img data-aos="fade-up" data-aos-duration="3000" src="assets/img/style.png" class="figure-img img-fluid mt-5">
+                            <img data-aos="fade-up" data-aos-duration="3000" src="assets/style.png" class="figure-img img-fluid mt-5">
                         </figure>
                     </div>
                 </div>
@@ -145,27 +138,25 @@
     </section>
     <!-- Close Sitemap -->
     <!-- Wireframe -->
-    <section>
+    <!-- <section>
         <div class="container text-left">
             <div class="row">
                 <div class="text col-lg-6 col-md-6 col-12" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
                     <h6 class="text-title">WIREFRAME</h6>
-                    <p class="text-desc">I use the actual content from them (<a
-                            href="https://buildwithangga.com/">BuildWithAngga</a>) and also the layout but
-                        there are some that I redesign. I find this wireframe process is very important so I can focus
-                        on the content first. I designed the wireframe for all the pages using Adobe XD tools.
+                    <p class="text-desc">I find this wireframe process is very important so I can focus
+                        on the content first. I designed the wireframe for all the pages using Figma tools.
                     </p>
                 </div>
                 <div class="row">
                     <div class="col">
                         <figure class="figure mt-5">
-                            <img data-aos="fade-up" data-aos-duration="3000" src="assets/img/wireframe-mono.png" class="figure-img img-fluid mt-5">
+                            <img data-aos="fade-up" data-aos-duration="3000" src="assets/myn.png" class="figure-img img-fluid mt-5">
                         </figure>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Close wireframe -->
     <!-- mockup -->
     <section>
@@ -173,7 +164,7 @@
             <div class="row">
                 <div class="text col-lg-6 col-md-6 col-12" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
                     <h6 class="text-title">MOCKUP</h6>
-                    <p class="text-desc">After finished creating the wireframe in Adobe XD. I continue to the mockup
+                    <p class="text-desc">After finished creating the wireframe in Figma. I continue to the mockup
                         phase. Filling the images, creating some design elements, adding colors, and refining the
                         layout. Of the wireframe that was created, I don't follow all the layout. There are some parts
                         that I changed.
@@ -182,7 +173,7 @@
                 <div class="row">
                     <div class="col">
                         <figure class="figure mt-5">
-                            <img data-aos="fade-up" data-aos-duration="3000" src="assets/img/mockup-mono.png" class="figure-img img-fluid mt-5">
+                            <img data-aos="fade-up" data-aos-duration="3000" src="assets/mockup-myn.png" class="figure-img img-fluid mt-5">
                         </figure>
                     </div>
                 </div>
@@ -197,9 +188,8 @@
                 <div class="text col-lg-6 col-md-6 col-12" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
                     <h6 class="text-title">RESULT</h6>
                     <p class="text-desc">With some revisions, the final design is finally done. Then the next step is
-                        the development process by my self. After about 1 month of development the site ready to
-                        deploy and now you can see it in action. Indeed it took quite a long time because I had to
-                        finish the class first.
+                        the development process by my partner. After about 2 weeks of development the site ready to
+                        deploy and now you can see it in action.
                     </p>
                 </div>
             </div>
@@ -210,7 +200,7 @@
     <section>
         <div class="container text-left">
             <figure class="figure mt-5">
-                <img src="assets/img/screen.png" class="figure-img img-fluid mt-5">
+                <img src="assets/myn.png" class="figure-img img-fluid mt-5">
             </figure>
         </div>
     </section>
@@ -223,7 +213,7 @@
 import Footer from '../components/Footer.vue';
 import Navbar from '../components/NavbarSection.vue';
 export default {
-    name: 'mono',
+    name: 'myn',
     components: { 
         Navbar,
         Footer

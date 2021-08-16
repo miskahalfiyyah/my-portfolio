@@ -23,10 +23,10 @@
             <div class="row" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
                 <div class="text col-lg-6 col-md-6 col-12">
                     <h6 class="text-title">PROBLEM STATEMENT</h6>
-                    <p class="text-desc">Most of the companies still do not have a company profile website which is where the
-                        company profile website is very important today. Users will find it easier to find the company they are
-                        looking for. This website was developed using CMS (Content Management Services) so that admin who want to change content can
-                        change it in the admin panel.
+                    <p class="text-desc">To make a great first impression on prospective customers, it is essential to
+                        create a company profile design. A company profile is considered as an essential tool for any
+                        type of business and can be used as an effective marketing tool to attract new customers as well
+                        as investors.
                     </p>
                 </div>
             </div>

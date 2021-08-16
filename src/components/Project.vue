@@ -9,7 +9,7 @@
                                 <img src="assets/Studie.png" alt="" />
                                 <div class="overlay">
                                     <div class="content">
-                                        <a href="">See Details</a>
+                                        <router-link to="/studie"><a>See Details</a></router-link>
                                     </div>
                                 </div>
                             </div>
@@ -33,7 +33,7 @@
                                 <img src="assets/MYNInterior.png" alt="" />
                                 <div class="overlay">
                                     <div class="content">
-                                        <a href="">See Details</a>
+                                        <router-link to="/myn"><a>See Details</a></router-link>
                                     </div>
                                 </div>
                             </div>
@@ -41,7 +41,7 @@
                                 <img src="assets/Company Profile.png" alt="" />
                                 <div class="overlay">
                                     <div class="content">
-                                        <a href="">See Details</a>
+                                        <router-link to="/comprof"><a>See Details</a></router-link>
                                     </div>
                                 </div>
                             </div>
@@ -104,6 +104,14 @@ export default {
     }
     .content {
         opacity: 0;
+        position: absolute;
+        top: 52%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        text-transform: uppercase;
+        white-space: nowrap;
+        overflow: hidden;
     }
     .content:hover {
         opacity: 1;

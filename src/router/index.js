@@ -3,12 +3,13 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Mono from '../views/Monochrome.vue'
 import Tech from '../views/TechSolution.vue'
+import Myn from '../views/Myn.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/home',
+    path: '/',
     name: 'Home',
     component: Home
   },
@@ -29,6 +30,11 @@ const routes = [
     path: '/tech',
     name: 'tech',
     component: Tech
+  },
+  {
+    path: '/myn',
+    name: 'myn',
+    component: Myn
   },
 ]
 
