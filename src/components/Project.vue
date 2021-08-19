@@ -6,6 +6,14 @@
                 <div class="col-lg-12">
                     <carousel class="project-slider" :items="3" :dots="false" :nav="false" :autoplay="true">
                             <div class="pi-pic">
+                                <img src="assets/NIQInterior.png" alt="" />
+                                <div class="overlay">
+                                    <div class="content">
+                                        <router-link to="/niq"><a>See Details</a></router-link>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pi-pic">
                                 <img src="assets/Studie.png" alt="" />
                                 <div class="overlay">
                                     <div class="content">
@@ -42,6 +50,22 @@
                                 <div class="overlay">
                                     <div class="content">
                                         <router-link to="/comprof"><a>See Details</a></router-link>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pi-pic">
+                                <img src="assets/trading.png" alt="" />
+                                <div class="overlay">
+                                    <div class="content">
+                                        <router-link to="/"><a>See Details</a></router-link>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pi-pic">
+                                <img src="assets/selfreport.png" alt="" />
+                                <div class="overlay">
+                                    <div class="content">
+                                        <router-link to="/studie"><a>See Details</a></router-link>
                                     </div>
                                 </div>
                             </div>

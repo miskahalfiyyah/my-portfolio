@@ -4,6 +4,8 @@ import Home from '../views/Home.vue'
 import Mono from '../views/Monochrome.vue'
 import Tech from '../views/TechSolution.vue'
 import Myn from '../views/Myn.vue'
+import Niq from '../views/NiqInter.vue'
+import Studie from '../views/Studie.vue'
 
 Vue.use(VueRouter)
 
@@ -35,6 +37,16 @@ const routes = [
     path: '/myn',
     name: 'myn',
     component: Myn
+  },
+  {
+    path: '/niq',
+    name: 'niq',
+    component: Niq
+  },
+  {
+    path: '/studie',
+    name: 'studie',
+    component: Studie
   },
 ]
 
