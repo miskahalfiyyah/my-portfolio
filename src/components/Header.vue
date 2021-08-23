@@ -6,7 +6,7 @@
                 <img src="assets/myprofile.png" alt="">
                 <h3 class="mt-4" style="font-family: 'Rubik', sans-serif !important; color: white;">Hi, I'm Miskah</h3>
                 <h1 class="mx-auto my-0 text-white">Front-end Developer and<br> UI/UX Designer</h1>
-                <a class="btn btn-primary js-scroll-trigger mt-5 text-uppercase" target="_blank" href="https://drive.google.com/file/d/1LNtUnjyEBwhw_GcZT9g_MNhSGyjZp7Fv/view?usp=sharing">Download CV</a>
+                <a class="btn btn-primary js-scroll-trigger mt-5 text-uppercase" target="_blank" href="https://drive.google.com/file/d/10KEoRMa7o-CDtJBgSNSmdiAbtB_D4I2o/view?usp=sharing">Download CV</a>
             </div>
         </div>
     </header>

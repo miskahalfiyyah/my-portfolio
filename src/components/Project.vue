@@ -49,7 +49,7 @@
                                 <img src="assets/Company Profile.png" alt="" />
                                 <div class="overlay">
                                     <div class="content">
-                                        <router-link to="/comprof"><a>See Details</a></router-link>
+                                        <router-link to="/findjob"><a>See Details</a></router-link>
                                     </div>
                                 </div>
                             </div>

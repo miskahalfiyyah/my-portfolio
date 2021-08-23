@@ -166,8 +166,7 @@
                     <h6 class="text-title">MOCKUP</h6>
                     <p class="text-desc">After finished creating the wireframe in Figma. I continue to the mockup
                         phase. Filling the images, creating some design elements, adding colors, and refining the
-                        layout. Of the wireframe that was created, I don't follow all the layout. There are some parts
-                        that I changed.
+                        layout.
                     </p>
                 </div>
                 <div class="row">
@@ -188,7 +187,7 @@
                 <div class="text col-lg-6 col-md-6 col-12" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
                     <h6 class="text-title">RESULT</h6>
                     <p class="text-desc">With some revisions, the final design is finally done. Then the next step is
-                        the development process by my partner. After about 2 weeks of development the site ready to
+                        the development process by my partner. After about 3 weeks of development the site ready to
                         deploy and now you can see it in action.
                     </p>
                 </div>
