@@ -49,7 +49,7 @@
                                 <img src="assets/Company Profile.png" alt="" />
                                 <div class="overlay">
                                     <div class="content">
-                                        <router-link to="/findjob"><a>See Details</a></router-link>
+                                        <router-link to="/find-job"><a>See Details</a></router-link>
                                     </div>
                                 </div>
                             </div>
@@ -65,7 +65,7 @@
                                 <img src="assets/selfreport.png" alt="" />
                                 <div class="overlay">
                                     <div class="content">
-                                        <router-link to="/studie"><a>See Details</a></router-link>
+                                        <router-link to="/self-report"><a>See Details</a></router-link>
                                     </div>
                                 </div>
                             </div>

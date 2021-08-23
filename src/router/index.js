@@ -7,6 +7,7 @@ import Myn from '../views/Myn.vue'
 import Niq from '../views/NiqInter.vue'
 import Studie from '../views/Studie.vue'
 import Find from '../views/FindJob.vue'
+import Self from '../views/SelfReport.vue'
 
 Vue.use(VueRouter)
 
@@ -50,9 +51,14 @@ const routes = [
     component: Studie
   },
   {
-    path: '/findjob',
+    path: '/find-job',
     name: 'find',
     component: Find
+  },
+  {
+    path: '/self-report',
+    name: 'self',
+    component: Self
   },
 ]
 
