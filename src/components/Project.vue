@@ -57,7 +57,7 @@
                                 <img src="assets/trading.png" alt="" />
                                 <div class="overlay">
                                     <div class="content">
-                                        <router-link to="/"><a>See Details</a></router-link>
+                                        <router-link to="/trading"><a>See Details</a></router-link>
                                     </div>
                                 </div>
                             </div>

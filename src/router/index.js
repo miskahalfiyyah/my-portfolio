@@ -8,6 +8,7 @@ import Niq from '../views/NiqInter.vue'
 import Studie from '../views/Studie.vue'
 import Find from '../views/FindJob.vue'
 import Self from '../views/SelfReport.vue'
+import Trading from '../views/Trading.vue'
 
 Vue.use(VueRouter)
 
@@ -59,6 +60,11 @@ const routes = [
     path: '/self-report',
     name: 'self',
     component: Self
+  },
+  {
+    path: '/trading',
+    name: 'trading',
+    component: Trading
   },
 ]
 
