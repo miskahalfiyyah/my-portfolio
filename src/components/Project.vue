@@ -14,10 +14,10 @@
                                 </div>
                             </div>
                             <div class="pi-pic">
-                                <img src="assets/Studie.png" alt="" />
+                                <img src="assets/tanya-pateron.png" alt="" />
                                 <div class="overlay">
                                     <div class="content">
-                                        <router-link to="/studie"><a>See Details</a></router-link>
+                                        <router-link to="/tanya-pateron"><a>See Details</a></router-link>
                                     </div>
                                 </div>
                             </div>
@@ -54,10 +54,10 @@
                                 </div>
                             </div>
                             <div class="pi-pic">
-                                <img src="assets/trading.png" alt="" />
+                                <img src="assets/studie.png" alt="" />
                                 <div class="overlay">
                                     <div class="content">
-                                        <router-link to="/trading"><a>See Details</a></router-link>
+                                        <router-link to="/studie"><a>See Details</a></router-link>
                                     </div>
                                 </div>
                             </div>

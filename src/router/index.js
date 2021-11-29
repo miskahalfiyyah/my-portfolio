@@ -5,10 +5,10 @@ import Mono from '../views/Monochrome.vue'
 import Tech from '../views/TechSolution.vue'
 import Myn from '../views/Myn.vue'
 import Niq from '../views/NiqInter.vue'
-import Studie from '../views/Studie.vue'
+import Pateron from '../views/Tanya-Pateron.vue'
 import Find from '../views/FindJob.vue'
 import Self from '../views/SelfReport.vue'
-import Trading from '../views/Trading.vue'
+import Studie from '../views/Studie.vue'
 
 Vue.use(VueRouter)
 
@@ -47,9 +47,9 @@ const routes = [
     component: Niq
   },
   {
-    path: '/studie',
-    name: 'studie',
-    component: Studie
+    path: '/tanya-pateron',
+    name: 'pateron',
+    component: Pateron
   },
   {
     path: '/find-job',
@@ -62,9 +62,9 @@ const routes = [
     component: Self
   },
   {
-    path: '/trading',
-    name: 'trading',
-    component: Trading
+    path: '/studie',
+    name: 'Studie',
+    component: Studie
   },
 ]
 
