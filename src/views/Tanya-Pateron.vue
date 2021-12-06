@@ -10,7 +10,7 @@
 
                 <figure class="figure text-left">
                     <a target="_blank" href="http://tanya-stage.pateron.id/" style="font-size: 14px;"><i class="fas fa-link ml-2 mt-5"></i> Visit Website</a>
-                    <img src="assets/tanya-pateron.png" class="figure-img img-fluid mt-5" data-aos="flip-left"
+                    <img src="assets/pateron.png" class="figure-img img-fluid mt-5" data-aos="flip-left"
                         data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                     <figcaption class="figure-caption mt-3 text-center font-italic text-white">
                         Web Online Course
