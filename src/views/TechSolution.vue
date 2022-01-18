@@ -7,7 +7,7 @@
                 <h2>Tech Solution, Website Company Profile</h2>
 
                 <figure class="figure">
-                    <a href="https://github.com/miskahalfiyyah/SHOUSE" style="font-size: 14px;"><i class="fas fa-link ml-2 mt-5"></i> Visit Website</a>
+                    <a href="https://www.figma.com/file/wZQvYH9ydBfmCtGqTiikdX/Company-Profile-(Final)?node-id=0%3A1" style="font-size: 14px;"><i class="fas fa-link ml-2 mt-5"></i>Visit Design</a>
                     <img src="assets/img/tech-solution.png" class="figure-img img-fluid mt-5" data-aos="flip-left"
                         data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                     <figcaption class="figure-caption mt-3 text-center font-italic text-left">

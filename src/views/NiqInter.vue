@@ -9,7 +9,7 @@
                 <h2>NIQInterior, Furniture Web Application</h2>
 
                 <figure class="figure text-left">
-                    <a target="_blank" href="https://github.com/miskahalfiyyah/furniture-application" style="font-size: 14px;"><i class="fas fa-link ml-2 mt-5"></i> Visit Website</a>
+                    <a target="_blank" href="http://niq-interior.my.id/" style="font-size: 14px;"><i class="fas fa-link ml-2 mt-5"></i>Visit Website</a>
                     <img src="assets/NIQInterior.png" class="figure-img img-fluid mt-5" data-aos="flip-left"
                         data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                     <figcaption class="figure-caption mt-3 text-center font-italic text-white">
@@ -29,7 +29,7 @@
                     <p class="text-desc">I am taking an online course
                         at <a target="_blank" href="https://buildwithangga.com/">BuildWith Angga</a>
                         and I use this web application for my thesis where I use the application to analyze a user activity log
-                        on a furniture website using process mining Alpha Miner algorithm.
+                        on a furniture website using process mining Alpha and Alpha++ algorithm.
                     </p>
                 </div>
             </div>

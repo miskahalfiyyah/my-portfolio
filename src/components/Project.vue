@@ -14,7 +14,7 @@
                                 </div>
                             </div>
                             <div class="pi-pic">
-                                <img src="assets/tanya-pateron.png" alt="" />
+                                <img src="assets/pateron.png" alt="" />
                                 <div class="overlay">
                                     <div class="content">
                                         <router-link to="/tanya-pateron"><a>See Details</a></router-link>
